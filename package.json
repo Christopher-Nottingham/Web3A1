@@ -1,0 +1,24 @@
+{
+  "name": "comp4513-a1-art",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Christopher-Nottingham/COMP4513-Assign1#readme",
+  "bugs": {
+    "url": "https://github.com/Christopher-Nottingham/COMP4513-Assign1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christopher-Nottingham/COMP4513-Assign1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "./src/art-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.48.1",
+    "express": "^4.21.2"
+  }
+}
