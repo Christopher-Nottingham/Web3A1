@@ -34,24 +34,24 @@ Christopher Nottingham
 - https://comp4513-a1-nfyg.onrender.com/api/paintings/sort/year
 - https://comp4513-a1-nfyg.onrender.com/api/paintings/sort/title
 - https://comp4513-a1-nfyg.onrender.com/api/paintings/years/1800/1850
-- https://comp4513-a1-nfyg.onrender.com/api/paintings/search/connolly
 - https://comp4513-a1-nfyg.onrender.com/api/paintings/63
 - https://comp4513-a1-nfyg.onrender.com/api/paintings/galleries/5
-- https://comp4513-a1-nfyg.onrender.com/api/paintings/artist/16
+- https://comp4513-a1-nfyg.onrender.com/api/paintings/artists/16
 - https://comp4513-a1-nfyg.onrender.com/api/paintings/genre/78
 - https://comp4513-a1-nfyg.onrender.com/api/paintings/era/2
-- https://comp4513-a1-nfyg.onrender.com/api/paintings/artist/country/ital
+- https://comp4513-a1-nfyg.onrender.com/api/paintings/artists/country/ital
 ## Get all counts from the data
 - https://comp4513-a1-nfyg.onrender.com/api/counts/genres
 - https://comp4513-a1-nfyg.onrender.com/api/counts/artists
 - https://comp4513-a1-nfyg.onrender.com/api/counts/topgenres/20
-- https://comp4513-a1-nfyg.onrender.com/api/counts/topgenres/2034958
+
 ## Error Handling
 - https://comp4513-a1-nfyg.onrender.com/api/artists/1223423
 - https://comp4513-a1-nfyg.onrender.com/api/galleries/Calgary
 - https://comp4513-a1-nfyg.onrender.com/api/genres/painting/jsdfhg
 - https://comp4513-a1-nfyg.onrender.com/api/paintings/artist/666
-
+- https://comp4513-a1-nfyg.onrender.com/api/paintings/search/connolly
+- https://comp4513-a1-nfyg.onrender.com/api/counts/topgenres/2034958
 
   
 
