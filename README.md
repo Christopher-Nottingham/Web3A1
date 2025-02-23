@@ -1,4 +1,4 @@
-# COMP 4513 (Winter 2024) Assignment #1: Node
+# COMP 4513 (Winter 2025) Assignment #1
 
 ## Website
 - Host: Render
@@ -24,7 +24,6 @@ Christopher Nottingham
 - https://comp4513-a1-nfyg.onrender.com/api/artists/country/fra
 ## Get all data from a origin table of Galleries
 - https://comp4513-a1-nfyg.onrender.com/api/galleries/30
-- https://comp4513-a1-nfyg.onrender.com/api/galleries/Calgary
 - https://comp4513-a1-nfyg.onrender.com/api/galleries/country/fra
 ## Get all data from a origin table of Genres
 - https://comp4513-a1-nfyg.onrender.com/api/genres/76
@@ -49,6 +48,7 @@ Christopher Nottingham
 - https://comp4513-a1-nfyg.onrender.com/api/counts/topgenres/2034958
 ## Error Handling
 - https://comp4513-a1-nfyg.onrender.com/api/artists/1223423
+- https://comp4513-a1-nfyg.onrender.com/api/galleries/Calgary
 - https://comp4513-a1-nfyg.onrender.com/api/genres/painting/jsdfhg
 - https://comp4513-a1-nfyg.onrender.com/api/paintings/artist/666
 
