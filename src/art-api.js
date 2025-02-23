@@ -329,6 +329,7 @@ app.get('/api/genres/painting/:ref', async (req, res) => {
   const { data, error } = await supabase
     .from('PaintingGenres')
     .select("Paintings!inner(title), Genres!inner(genreName,description,wikiLink, Eras:eraId(eraName,eraYears))")
+    .eq("paintingId", req.params.ref)
     .order("genreName", { referencedTable: 'Genres', ascending: true });
   if (data.length == 0) {
     res.send({ "Error": `No paintings exist with id: ${req.params.ref}...please try another painting id` });
