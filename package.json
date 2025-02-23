@@ -15,6 +15,7 @@
   "type": "commonjs",
   "main": "./src/art-api.js",
   "scripts": {
+    "start": "node ./src/art-api.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
