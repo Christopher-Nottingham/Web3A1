@@ -1,9 +1,9 @@
- # COMP 4513 (Winter 2024) Assignment #1: Node
+# COMP 4513 (Winter 2024) Assignment #1: Node
 
 ## Website
-Host: Render
-Hostsite: www.render.com
-Website for API: https://comp4513-a1-nfyg.onrender.com/api/
+- Host: Render
+- Hostsite: www.render.com
+- Website for API: https://comp4513-a1-nfyg.onrender.com/api/
 
 
 ## Contributor 
