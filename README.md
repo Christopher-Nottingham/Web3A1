@@ -4,7 +4,7 @@
 Christopher Nottingham 
 
 # Description
-This project is an API for querying Art data, such as artists, paintings and galleries all around the word. THe requested data will be sent back in JSON format. 
+This project is an API for querying Art data, such as artists, paintings and galleries all around the world. The requested data will be sent back in JSON format. 
 
 # Built with
 Node.js - Javascript Runtime <br/>
