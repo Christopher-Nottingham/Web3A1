@@ -392,7 +392,7 @@ app.get('/api/counts/topgenres/:ref', async (req, res) => {
   const { data, error } = await supabase
     .from('Genres')
     .select("genreName,PaintingGenres(count)")
-    .gt("PaintingGenres.count", req.params.ref);
+    .gt("PaintingGenres.count", req.params.ref)
     .order("count", {referencedTable: "PaintingGenres", ascending: false});
   if (data.length == 0) {
     res.send({ "Error": `Please use another number in the parameter..${req.params.ref} is high of a number` });
